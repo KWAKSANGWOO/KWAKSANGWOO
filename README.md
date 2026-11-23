@@ -49,6 +49,6 @@
 
 ### 📫 Contact & Channels
 
-*   **Email:sangwoo.kwack@gmail.com
-*   **Location:** 서울시 서초구 전원말안1길
-*   ** Mobile : 101-6241-2581
+*   Email:sangwoo.kwack@gmail.com
+*   Location: 서울시 서초구 전원말안1길
+*   Mobile : 010-6241-2581
