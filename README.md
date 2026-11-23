@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 보유기술
 
 #### **Languages & Frameworks**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> 
@@ -16,7 +16,7 @@
 
 ---
 
-### 💡 Core Competencies
+### 💡 핵심역량
 
 *   **AI 기반 산업·공공 플랫폼 PM:** AI/IoT 기반 스마트정수장(EMS/PMS), 자산관리 및 스마트팩토리 구축 PM
 *   **데이터 기반 최적화 및 예지보전(PMS):** 실시간 센서 데이터 Gathering, IoT/Modbus 통신 연동, AI 알고리즘 기반 이상감지 및 전력 피크·펌프 최적제어 시스템 구현
@@ -51,3 +51,4 @@
 
 *   **Email:sangwoo.kwack@gmail.com
 *   **Location:** 서울시 서초구 전원말안1길
+*   ** Mobile : 101-6241-2581
