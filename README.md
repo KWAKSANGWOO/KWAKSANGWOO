@@ -47,5 +47,5 @@
 
 ### 📫 Contact & Channels
 
-*   **Email:** (이메일 주소 기입)
-*   **Location:** 서울시 서초구[cite: 1]
+*   **Email:sangwoo.kwack@gmail.com
+*   **Location:** 서울시 서초구 전원말안1길
